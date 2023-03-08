@@ -1,6 +1,7 @@
-API Reconnaissance Techniques and Tools
-Active Reconnaissance:
-Nmap: A versatile port scanner that can be used to scan for open ports, fingerprint services, and detect potential vulnerabilities. To scan for APIs, you can use the following command:
+# API Reconnaissance Techniques and Tools
+## Active Reconnaissance:
+### Nmap:
+A versatile port scanner that can be used to scan for open ports, fingerprint services, and detect potential vulnerabilities. To scan for APIs, you can use the following command:
 
 css
 Copy code
